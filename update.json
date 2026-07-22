@@ -1,10 +1,10 @@
 {
   "latest_version": "v1.0.0",
-  "version_code": 50020104,
+  "version_code": 50020117,
   "title": "MovieBox Update 1",
-  "changelog": "- Moviebox Version 3.0.15.0616.03\n- Fixed Some short Episodes still locked\n- Performance improvements\n- Updated to the latest version",
+  "changelog": "- Moviebox Version 3.0.16.0722.03\n- Fixed Some short Episodes still locked\n- Performance improvements\n- Updated to the latest version",
   "download_url": "https://t.me/+oBYmjb5Jv64xZjU1",
-  "terabox_url": "https://1024terabox.com/s/1HkTmNzK1CqMebDjZeqAWXw",
+  "terabox_url": "https://1024terabox.com/s/1VJd8Vyl3sgpM36srWtiZlQ",
   "size": "65.3 MB",
   "mandatory": false
 }
